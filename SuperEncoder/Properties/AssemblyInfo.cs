@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("SuperEncoder")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("BaguaEncoder")]
+[assembly: AssemblyDescription("闲的蛋疼的产物")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SuperEncoder")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("BaguaEncoder")]
+[assembly: AssemblyCopyright("Copyright © PMX  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
