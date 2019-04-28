@@ -86,7 +86,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="README.md" />
     <None Include="SelfSigned-Pmx.pfx" />
   </ItemGroup>
   <ItemGroup>
